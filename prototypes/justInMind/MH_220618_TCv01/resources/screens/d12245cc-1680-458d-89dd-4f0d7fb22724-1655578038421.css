@@ -1,4 +1,5 @@
 #s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #backgroundBox {
+  background-color: #FFFFFF;
   position: absolute;
 }
 #s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #alignmentBox {
@@ -46,7 +47,7 @@
 }
 #s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Button {
   position: absolute;
-  width: 120.0px;
+  width: 106.0px;
   min-height: 20.999999999999943px;
   -webkit-transform: rotate(0.0deg);
   -moz-transform: rotate(0.0deg);
@@ -1156,7 +1157,7 @@
 }
 #s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Panel_2 {
   width: 425.0000000000001px;
-  height: 280.0px;
+  height: 223.00000000000003px;
   border-left-width: 0px;
   border-bottom-width: 0px;
   border-right-width: 0px;
@@ -1341,6 +1342,127 @@
   padding-right: 0px;
   padding-bottom: 0px;
   padding-left: 5px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Circle .paddingLayer {
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Circle .content {
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Circle {
+  position: absolute;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Circle {
+  width: 12.888957325120884px;
+  height: 12.371874999999946px;
+  min-height: 12.371874999999946px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  stroke-width: 2.0px;
+  stroke: #404040;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Circle .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Circle span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 6.75pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 12px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #shapewrapper-s-Circle span#rtr-s-Circle_0 {
+  color: #333333;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 6.75pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 12px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Dynamic_Panel_1 {
+  position: absolute;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Panel_3 {
+  width: 213.99999999999955px;
+  height: 100.0px;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Panel_3 > .backgroundLayer > .colorLayer {
+  background-color: #D1D1D1;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Panel_3 td.layout {
+  padding: 0px 0px 0px 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Panel_3 > .borderLayer > .layoutWrapper {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Panel_3 .verticalalign {
+  vertical-align: top;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_7 {
+  position: absolute;
+  width: auto;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_7 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_7 .valign {
+  vertical-align: top;
+  text-align: left;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_7 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Paragraph_7 span#rtr-s-Paragraph_7_0 {
+  color: #333333;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
 }
 .devMobile #jim-container .ui-page {
   overflow-x: hidden;

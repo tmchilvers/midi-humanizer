@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1024" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1655566488073.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1655578038421.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -10,10 +10,10 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Screen 1" width="487" height="355">\
+    <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Screen 1" width="487" height="355">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1655566488073.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1655578038421.css" />\
       <div class="freeLayout">\
       <div id="s-Paragraph" class="richtext autofit firer ie-background commentable non-processed" customid="MIDI HUMANIZER"   datasizewidth="250.0px" datasizeheight="34.0px" dataX="31.0" dataY="27.0" >\
         <div class="backgroundLayer">\
@@ -30,7 +30,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Button" class="button multiline manualfit firer click pageload commentable non-processed" customid="Generate Seed"   datasizewidth="120.0px" datasizeheight="21.0px" dataX="31.0" dataY="68.0" >\
+      <div id="s-Button" class="button multiline manualfit firer click pageload commentable non-processed" customid="Generate Seed"   datasizewidth="106.0px" datasizeheight="21.0px" dataX="31.0" dataY="68.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -370,7 +370,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="number"  value="" maxlength="100"  tabindex="-1" placeholder="0"/></div></div>  </div></div></div>\
-      <div id="s-Dynamic_Panel" class="dynamicpanel firer commentable hidden non-processed" customid="Dynamic Panel" datasizewidth="425.0px" datasizeheight="280.0px" dataX="31.0" dataY="103.0" >\
+      <div id="s-Dynamic_Panel" class="dynamicpanel firer commentable hidden non-processed" customid="Dynamic Panel" datasizewidth="425.0px" datasizeheight="223.0px" dataX="31.0" dataY="103.0" >\
         <div id="s-Panel_1" class="panel default firer commentable non-processed" customid="Panel 1"  datasizewidth="425.0px" datasizeheight="100.0px" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
@@ -424,7 +424,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Panel_2" class="panel hidden firer commentable non-processed" customid="Panel 2"  datasizewidth="425.0px" datasizeheight="280.0px" >\
+        <div id="s-Panel_2" class="panel hidden firer commentable non-processed" customid="Panel 2"  datasizewidth="425.0px" datasizeheight="223.0px" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -433,7 +433,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           	<div class="layoutWrapper scrollable">\
           	  <div class="paddingLayer">\
                 <div class="freeLayout">\
-                <div id="s-Button_6" class="button multiline manualfit firer click ie-background commentable non-processed" customid="back"   datasizewidth="68.0px" datasizeheight="29.0px" dataX="18.0" dataY="237.0" >\
+                <div id="s-Button_6" class="button multiline manualfit firer click ie-background commentable non-processed" customid="back"   datasizewidth="68.0px" datasizeheight="29.0px" dataX="18.0" dataY="181.0" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -448,7 +448,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Button_5" class="button multiline manualfit firer click ie-background commentable non-processed" customid="load"   datasizewidth="68.0px" datasizeheight="29.0px" dataX="104.0" dataY="237.0" >\
+                <div id="s-Button_5" class="button multiline manualfit firer click ie-background commentable non-processed" customid="load"   datasizewidth="68.0px" datasizeheight="29.0px" dataX="104.0" dataY="181.0" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -467,6 +467,65 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                   <div class="colorLayer"></div>\
                   <div class="imageLayer"></div>\
                 </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">new value 1</div></div></div></div></div><select id="s-Category-options" class="s-d12245cc-1680-458d-89dd-4f0d7fb22724 dropdown-options" ><option selected="selected" class="option">new value 1</option></select></div>\
+                </div>\
+\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="shapewrapper-s-Circle" customid="Circle" class="shapewrapper shapewrapper-s-Circle non-processed"   datasizewidth="12.9px" datasizeheight="12.4px" datasizewidthpx="12.888957325120884" datasizeheightpx="12.371874999999946" dataX="141.1" dataY="72.3" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Circle" class="svgContainer" style="width:100%; height:100%;">\
+              <g>\
+                  <g clip-path="url(#clip-s-Circle)">\
+                          <ellipse id="s-Circle" class="ellipse shape non-processed-shape manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="Circle" cx="6.444478662560442" cy="6.185937499999973" rx="6.444478662560442" ry="6.185937499999973">\
+                          </ellipse>\
+                  </g>\
+              </g>\
+              <defs>\
+                  <clipPath id="clip-s-Circle" class="clipPath">\
+                          <ellipse cx="6.444478662560442" cy="6.185937499999973" rx="6.444478662560442" ry="6.185937499999973">\
+                          </ellipse>\
+                  </clipPath>\
+              </defs>\
+          </svg>\
+          <div class="paddingLayer">\
+              <div id="shapert-s-Circle" class="content firer" >\
+                  <div class="valign">\
+                      <span id="rtr-s-Circle_0">?</span>\
+                  </div>\
+              </div>\
+          </div>\
+      </div>\
+      <div id="s-Dynamic_Panel_1" class="dynamicpanel firer commentable hidden non-processed" customid="Dynamic Panel" datasizewidth="214.0px" datasizeheight="100.0px" dataX="159.5" dataY="67.0" >\
+        <div id="s-Panel_3" class="panel default firer commentable non-processed" customid="Panel 1"  datasizewidth="214.0px" datasizeheight="100.0px" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+          	<div class="layoutWrapper scrollable">\
+          	  <div class="paddingLayer">\
+                <div class="freeLayout">\
+                <div id="s-Paragraph_7" class="richtext autofit firer ie-background commentable non-processed" customid="Seeds are used to set up "   datasizewidth="203.8px" datasizeheight="90.0px" dataX="5.2" dataY="5.0" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Paragraph_7_0">Seeds are used to set up the <br />randomizer algorithm. If you<br />like a way the randomizer was <br />applied to your track, you can<br />save the seed, otherwise generate<br />a new seed</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
                 </div>\
 \
               </div>\

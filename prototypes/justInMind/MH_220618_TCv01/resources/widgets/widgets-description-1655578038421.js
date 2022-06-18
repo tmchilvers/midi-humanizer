@@ -131,4 +131,16 @@
 
 			widgets.rootWidgetMap[["s-Panel_2", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Dynamic Panel", "s-Dynamic_Panel"]; 
 
+	widgets.descriptionMap[["s-Circle", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Circle", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Circle", "s-Circle"]; 
+
+	widgets.descriptionMap[["s-Paragraph_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_7", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Text", "s-Paragraph_7"]; 
+
+	widgets.descriptionMap[["s-Panel_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_3", "d12245cc-1680-458d-89dd-4f0d7fb22724"]] = ["Dynamic Panel", "s-Dynamic_Panel_1"]; 
+
 	
